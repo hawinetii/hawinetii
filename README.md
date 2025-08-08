@@ -8,6 +8,7 @@ Hi there 👋 I'm Hawi Sebsibe Tadesse
 🎓 Software Engineering Student at AASTU  
 💻 Passionate about Coding and Solving Problem 
 👩‍💻 Aspiring to become Full stack developer
+
 🚀 Learning: Node.js, Express.js, Figma & Real-World Frontend Projects  
 🧘‍♀️ Side Interests: Chess, Music, Karate, and Mental Health
 
