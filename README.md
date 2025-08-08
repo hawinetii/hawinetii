@@ -1,9 +1,7 @@
 ## Hi there 👋
-
+I'm Hawi Sebsibe Tadesse
 ![Banner Image](./banner.png)
  
-# Hawi_Sebsibe
-Hi there 👋 I'm Hawi Sebsibe Tadesse
 
 🎓 Software Engineering Student at AASTU  
 💻 Passionate about Coding and Solving Problem
