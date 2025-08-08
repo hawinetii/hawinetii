@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![Banner Image](./banner.png)
+ 
 # Hawi_Sebsibe
 Hi there 👋 I'm Hawi Sebsibe Tadesse
 
