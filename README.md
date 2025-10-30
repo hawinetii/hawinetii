@@ -4,10 +4,10 @@
 ---
 
 - 🔭 I’m currently working on **Negarit Web App** – A community-based alert and reporting platform.  
-- 🌱 I’m actually learning **Vue, GSAP, Node.js, Express.js, and modern full-stack frameworks**.  
+- 🌱 I’m actually learning **Vue, GSAP, and modern full-stack frameworks**.  
 - 👯 I’m looking to collaborate on **Frontend & Backend Projects**.  
 - 🤝 I’m looking for help with **Full-Stack Projects & Database Integration**.  
-- 💬 Ask me about **C++, Full-Stack Development, and MySQL integration**.  
+- 💬 Ask me about ** Node.js, Express.js,C++, Full-Stack Development, and MySQL integration**.  
 - 📫 How to reach me **hawisebsibe4@gmail.com**  
 - ⚡ Fun fact: **I enjoy mind-growing games like chess and I love music 🎶**  
 
